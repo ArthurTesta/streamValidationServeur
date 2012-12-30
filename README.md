@@ -1,0 +1,4 @@
+streamValidationServeur
+=======================
+
+Checking before streaming
